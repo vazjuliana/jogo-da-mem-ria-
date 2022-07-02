@@ -1,13 +1,7 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Jogo da memório dos vingadores 🙃
 
-Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um jogo da memória com a temática de Super Mario! 
+![imagem do jogo da memória](/img/capturaDeTela.png)
 
-### Os requisitos são:
+Para visualizar o projeto [clique aqui](https://jogo-da-memoria-omega.vercel.app/)
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-* [Javascript básico](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
- 
-
-
-## 🚀 Let's code! 🚀
+🚀
